@@ -1,0 +1,8 @@
+{
+  "pack": "Pack Name Here",
+  "category": "Category Here (e.g. Academics, Culture, Food, Sports)",
+  "pairs": [
+    { "civilian": "Civilian Word", "imposter": "Imposter Word" },
+    { "civilian": "Civilian Word", "imposter": "Imposter Word" }
+  ]
+}
