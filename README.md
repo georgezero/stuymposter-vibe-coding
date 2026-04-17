@@ -10,7 +10,8 @@ This repo is a **starter kit for a vibe coding exercise**. You paste the prompt 
 
 A pass-and-play version of the Imposter Game, Stuy-themed. One phone, 3–8 players, passed around the table. Players give clues about a secret word while one player (the Imposter) tries to blend in without knowing the real word.
 
-<img width="1493" height="844" alt="image" src="https://github.com/user-attachments/assets/1e5d0fd1-5562-47c2-8a37-a8f719a7df15" />
+<img width="1161" height="850" alt="image" src="https://github.com/user-attachments/assets/2953683f-e64c-4c2f-9f70-814ab80a398c" />
+
 
 
 ---
@@ -98,23 +99,22 @@ The same stack — Hono routes, Drizzle, TypeScript, fetch on the frontend — i
 
 ### Screenshots
 
-<img width="1501" height="851" alt="image" src="https://github.com/user-attachments/assets/b3aa5bf7-7dfa-4202-b0a8-d265c9582792" />
+<img width="1162" height="852" alt="image" src="https://github.com/user-attachments/assets/41b159aa-3664-439d-968c-3a477e052676" />
 
-<img width="1495" height="844" alt="image" src="https://github.com/user-attachments/assets/4597f475-3df0-4a6f-8228-74491abdb977" />
+<img width="1157" height="841" alt="image" src="https://github.com/user-attachments/assets/517de8a8-944f-4ede-9a32-e46c83f71c90" />
 
-<img width="1491" height="841" alt="image" src="https://github.com/user-attachments/assets/7005bbf5-f5f1-4461-9836-5752b88ea518" />
+<img width="1162" height="845" alt="image" src="https://github.com/user-attachments/assets/79811aa9-587b-40ca-9fba-f0152a44e22b" />
 
-<img width="1501" height="844" alt="image" src="https://github.com/user-attachments/assets/19505b88-ac6a-4588-93e2-7b83d69bd689" />
+<img width="1160" height="844" alt="image" src="https://github.com/user-attachments/assets/27192b7c-7de0-4458-992b-f2767ab3e3ed" />
+
+<img width="1161" height="847" alt="image" src="https://github.com/user-attachments/assets/aca305e7-f644-454c-8b40-f0b3155ba925" />
+
+<img width="1163" height="849" alt="image" src="https://github.com/user-attachments/assets/11566775-5e12-4699-9262-a42fa1c59f4b" />
+
+<img width="1163" height="848" alt="image" src="https://github.com/user-attachments/assets/72520bf0-cb7e-466d-9faf-15f0578ab257" />
 
 
 
-<img width="1502" height="850" alt="image" src="https://github.com/user-attachments/assets/7805ecf6-e2ce-4aab-aa09-8498fab1c627" />
-
-<img width="1502" height="845" alt="image" src="https://github.com/user-attachments/assets/be132aa3-4ffd-4cce-8d67-cdfcddf7a564" />
-
-<img width="1500" height="841" alt="image" src="https://github.com/user-attachments/assets/b64d476c-98a3-42a5-a148-0e10636ef3c7" />
-
-<img width="1501" height="846" alt="image" src="https://github.com/user-attachments/assets/e0c1834e-548c-4152-978e-0800cfb48e93" />
 
 
 
